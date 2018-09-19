@@ -1,2 +1,6 @@
+
 branch1
 master1
+=======
+branch22
+
